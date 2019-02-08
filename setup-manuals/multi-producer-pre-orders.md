@@ -15,27 +15,13 @@ Producers who are participating in the shop can take on some of the admin tasks 
 **Easily communicate with producres**    
 Use our reports to let each producer know what's been ordered from them, and to calculate their sales total.
 
-### An example of this model in action
-
-The [Prom Coast Food Collective](https://www.promcoastfoodcollective.com.au/), in Victoria Australia is a group of farmers who are using a this model to collectively market their produce. So how does their model work?
-
-Each month the Collective opens their online shop on the OFN which stocks produce from over 20 producers, encompassing an impressive range of produce, from dairy, to household cleaning products, meat and vegetables. Customers have 2 weeks to browse the shop and place their order, which they won’t collect until the collection date. The collective takes payment via bank transfer. They could also have used an automated tool like Paypal, however these carry fees.
-
-At the close of the ordering period, the shop closes and the group’s coordinator begins the task of administering the orders and payments. This involves downloading a report from OFN listing all orders placed. The coordinator will check that bank transfers have been received from customers for each order placed. Once this has been confirmed, they will send each producer a list of the items that have been ordered from them, as well as transfer them the total value of sales they made. In the Prom Coast’s case, they have a $5 fee attached to each order, which covers some collective costs, such as this administration time.
-
-Once producers receive their order totals list from the coordinator, they start to prepare the produce for each customer. This may involve processing meat, harvesting vegetables, or bagging and labelling preserves. On a Sunday morning, one week after the shop closed and stopped accepting orders, all of the producers and customers converge at one of the farms. Customers will walk from producer to producer and collect the items they had pre-ordered. Producers will have the goods ready for each customer. Because orders are pre-paid, no money needs to changes hands on the day. Note, that alcohol sales cannot be pre-paid due to liquor licensing, so must be purchased on the day.
-
-![](../.gitbook/assets/prommm.png)
-
-After the collection day, the cycle repeats again. The first step for producers is to login to their OFN profiles and to update the availability and pricing of their products for the next month’s orders. Once they’ve had time to do this, the coordinator can open the shop and start receiving orders again.
-
 ## Steps for setting up a Multi-Producer Pre-Orders
 
 Setting up this model requires firstly setting up a Hub Shop for the collective shopfront. Secondly, profiles need to be created for all participating producers. These steps, as well as configuration options are described below.
 
 Setup of the collective shop is the same as setting up a hub shop.
 
-1\) [Register a profile](../basic-features/register-and-create-your-profile.md) for your collective shop on Open Food Network \(e.g. Green Valley Farmers Shop\). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
+1\) [Register a profile](../basic-features/register-and-create-your-profile.md) for your collective shop on Abukem E-Market (e.g. Lanny CoCo Farmers Shop\). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
 
 2\) Select the 'hub shop' [package type](../basic-features/package-types.md).
 
@@ -68,7 +54,7 @@ Once the producers have setup their profiles, you'll need to [connect with them]
 
 10\) View and edit [orders](../advanced-features/orders/).
 
-11\) View [reports](../basic-features/reports.md). This page offers a broad description of OFN's reports.
+11\) View [reports](../basic-features/reports.md). This page offers a broad description of Abukem E-Market reports.
 
 **Which reports are useful to multifarm shops?**    
 Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
@@ -99,7 +85,7 @@ ii\) or, if you have an inexhaustible amount of a product available, select the 
 
 See here for details about updating [products](../basic-features/products.md).
 
-Once all producer have done this, the coordinator creates an OC and selects all products for all producers. This will put all available products into the shop at the correct prices, with the correct stock levels.
+Once all producer have done this, the coordinator creates an OC (order cycle) and selects all products for all producers. This will put all available products into the shop at the correct prices, with the correct stock levels.
 
 ### Creating an Order Cycle
 
