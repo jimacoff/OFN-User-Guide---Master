@@ -2,7 +2,8 @@
 
 _\*Not a producer? Go to_ [_Order Cycles for hubs_](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/order-cycles.md)_._
 
-In Open Food Network, Order Cycles are where shop managers open their shop. This involves selecting which of their products are in stock, what fees are applied and what dates the shop will open and close.
+In Abukem E-Market
+ Order Cycles are where shop managers open their shop. This involves selecting which of their products are in stock, what fees are applied and what dates the shop will open and close.
 
 Many producers, who are selling small quantities of products, may find it useful to have an order cycle that is perpetually open, and to fulfill orders individually, as they are placed. Other producers, who sell large quantities of products, to multiple customers, find it useful to establish periodic order cycles, which are collectively fulfilled at the end of a period. For instance, a farmer may have an order cycle which is open \(accepting orders\) for two weeks. At the end of this order cycle, all of the orders are packed, sorted and distributed at the same time. Once this batch of orders has been fulfilled, a new order cycle is opened. Structuring order cycles in this way can make the tasks of packing and delivering orders more efficient.
 
