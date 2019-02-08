@@ -14,20 +14,20 @@ Some examples of food hubs include wholesale and retail food hubs and dry goods 
 With a hub shop customers can see profiles of the producers who grew/raised/baked their food, giving them a virtual farmer's market experience.
 
 **Streamline your admin tasks**  
-Unlike taking orders with emails, texts or phone messages, taking orders online is simple and time saving. Use OFN's reports to understand your stock levels, your sales, your orders and your packing sheets, all at a glance.
+Unlike taking orders with emails, texts or phone messages, taking orders online is simple and time saving. Use Abukem E-Market reports to understand your stock levels, your sales, your orders and your packing sheets, all at a glance.
 
 **Take orders periodically**  
 You can choose when your shop opens and closes, and run your shop in cycles.
 
 **Involve your suppliers**  
-Your suppliers can login directly to OFN to update their product availability and prices, minimising some administration tasks for you.
+Your suppliers can login directly to Abukem to update their product availability and prices, minimising some administration tasks for you.
 
 **Be flexible**  
 Our software is designed to be flexible and to accommodate business models of all different shapes and forms. You can use our flexibility to experiment with new ways of doing things. If you want to experiment supplying to hospitality customers, you can setup 'hospitality only' shops. Want to experiment with a new delivery location, add a drop-off point. Want to experiment with adding a second delivery date, you can do that.
 
 ## Steps for setting up a Hub Shop
 
-1\) [Register your profile](../basic-features/register-and-create-your-profile.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Register your profile](../basic-features/register-and-create-your-profile.md) on Abukem E-Market. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
 
 2\) Select the 'hub shop' [package type](../basic-features/package-types.md).
 
