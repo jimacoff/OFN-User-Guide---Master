@@ -88,11 +88,11 @@ In Xero go to **Accounts**, **Sales** and click Import.
 
 ![Xero Import](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Import.png)
 
-Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
+Next you will select your downloaded Abukem Xero report for upload. The settings you should select are shown below.
 
 ![Xero import steps](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-import-steps.png)
 
-Ignoring the address details will ensure your Xero customer data is unaltered. Selecting**Tax Exclusive**will ensure that products you have set to include tax in the OFN will include tax, but your tax free items will remain tax free.
+Ignoring the address details will ensure your Xero customer data is unaltered. Selecting**Tax Exclusive**will ensure that products you have set to include tax in the Abukem will include tax, but your tax free items will remain tax free.
 
 ## Bulk Co-op  Totals By Suppliers Report
 
