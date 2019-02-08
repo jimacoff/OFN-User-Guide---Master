@@ -31,11 +31,11 @@ Below is the first stage in creating an order cycle.
 
 Select the coordinator of the order cycle. The enterprise which coordinates an order cycle has full powers and permissions to edit and manage an order cycle. Other enterprises involved in the order cycle \(such as suppliers or distributors\) have restricted abilities to edit an order cycle \(for more information click here\). After the coordinator is selected, the subsequent order cycle will be restricted according to who has granted this coordinator permission to add them to an order cycle \(P-OC\).For more information about Enterprise to Enterprise permissions go here.
 
-**Name \(**_**required**_**\):**Give your order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
+**Name \(**_**required**_**\):**Give your order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2019. We also recommend that you include the name of your hub in the order cycle name, so that Abukem support can identify your order cycles if you need assistance.
 
-**Orders Open:** This is the date at when your OFN store will be open, visible and start to accept orders from customers.
+**Orders Open:** This is the date at when your Abukem store will be open, visible and start to accept orders from customers.
 
-**Order Close:** This is the date when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Order Close:** This is the date when your Abukem store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
 
 **Add Coordinator Fee:**As a hub, the coordinator is most likely you. Here you can apply your Enterprise Fee which acts as the markup. The fee will be calculated according to the calculator selected in [Enterprise Fees](enterprise-fees.md). You can only apply an enterprise fee which has previously been created.
 
