@@ -13,23 +13,23 @@ Enterprise Setting is where you can manage details relating to your profile and/
 
 **Primary Producer:** Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\).
 
-\*_Note: only enterprises marked as producers can add products to OFN. Hubs only need to select this option when they sell mixed boxes which they pack, that include items from multiple producers._
+\*_Note: only enterprises marked as producers can add products to Abukem. Hubs only need to select this option when they sell mixed boxes which they pack, that include items from multiple producers._
 
-**Visible in Search:** If your profile is ready to go public, select visible, and it will show in the OFN's directory and map. If you’re still making adjustments, select not visible, until you are ready.
+**Visible in Search:** If your profile is ready to go public, select visible, and it will show in the Abukem directory and map. If you’re still making adjustments, select not visible, until you are ready.
 
 **Permalink:** You can customise part of the web address which will host to your shop.
 
-**Link to Shop Front:** This is the web address of your shop on the OFN \(if you've chosen a package with shopfront\). You can customise the URL above.
+**Link to Shop Front:** This is the web address of your shop on the Abukem \(if you've chosen a package with shopfront\). You can customise the URL above.
 
 ### Address
 
-This information is used to map your enterprise the OFN map. Your exact address won't show if you only have a profile, however if you have a shopfront, your address will show in text form in your shop's contact details tab.
+This information is used to map your enterprise the Abukem map. Your exact address won't show if you only have a profile, however if you have a shopfront, your address will show in text form in your shop's contact details tab.
 
 ### Contact
 
-**Contact Name:** We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
+**Contact Name:** We ask for a contact name for the Abukem records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
 
-**Email and Phone and Website:** These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
+**Email and Phone and Website:** These contact points will be listed on your Abukem profile and shopfront, as a means for others to make contact with you.
 
 ### Social
 
@@ -67,11 +67,11 @@ You can apply properties \(such as free range or certified organic\) to your ent
 
 **Owner:** This is the primary user responsible for this enterprise. They have the power to change all aspects of the profile.
 
-**Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. This user will have an envelope symbol next to their name in the mangers field.
+**Notifications:** This is the email address where Abukem system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. This user will have an envelope symbol next to their name in the mangers field.
 
-**Manager:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers.
+**Manager:** Other Abukem users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an Abukem account and add them as managers.
 
-**Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
+**Invite manager:** This is for adding a manager who is not registered with Abukem. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
 
 _\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
 
@@ -107,7 +107,7 @@ _\* not visible to profile-only users_
 
 **Publicly visible shopfront?**: If you select ‘public’, any shopper will be able to see your shopfront. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop.
 
-**Guest Orders?**: If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you. If you want shoppers to login before they can place their order, select ‘require login to order’. Note the Guest Orders setting is not applicable if you have chosen ‘visible to registered customers only’ in the setting above.
+**Guest Orders?**: If you select ‘allow guest checkout’ shoppers won’t need to login to the Abukem to shop with you. If you want shoppers to login before they can place their order, select ‘require login to order’. Note the Guest Orders setting is not applicable if you have chosen ‘visible to registered customers only’ in the setting above.
 
 **Shopfront Category Ordering**: The products within your store are arranged alphabetically, within their product category. You can order the product categories as you’d like them to appear, from top to bottom in your store. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preseves appearing further down the shopfront.
 
