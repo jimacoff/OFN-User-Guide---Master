@@ -1,16 +1,16 @@
 # Customer FAQs
 
-%accordion%What are the OFN's transparency features?%accordion%
+%accordion%What are the Abukem E-Market transparency features?%accordion%
 
-Traditional grocery supply chains are shrouded in mystery, making it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery dollar will end up. Transparency is central to the OFN, because we believe that visible supply chains are healthier than those which are hidden. On the OFN, customers can always see where their food has come from and what proportion of the price goes to the farmer.
+Traditional grocery supply chains are shrouded in mystery, making it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery money will end up. Transparency is central to the Abukem E-Market, because we believe that visible supply chains are healthier than those which are hidden. On the Abukem, customers can always see where their food has come from and what proportion of the price goes to the farmer.
 
 In an online shop, the  pricing pie chart will show you how the price is allocated between the producer and other players like the hub or retailer. You can also see the product properties \(such as certified organic, free range etc\) to know more about how the food was produced.
 
 %/accordion%
 
-%accordion%How does shopping on the OFN bring benefits to farmers, the environment and my local community?%accordion%
+%accordion%How does shopping on the Abukem E-Market bring benefits to farmers, the environment and my local community?%accordion%
 
-The OFN makes producers visible again, giving them recognition and a fair price, for their hard work. A food system with more direct trading between farmers and local community enterprises \(instead of multinational corporations\) keeps food dollars in the community’s hands and builds ties and understanding. Shopping local also brings benefits to the environment through lower food miles and more seasonal consumption.
+The Abukem E-Market makes producers visible again, giving them recognition and a fair price, for their hard work. A food system with more direct trading between farmers and local community enterprises \(instead of multinational corporations\) keeps food dollars in the community’s hands and builds ties and understanding. Shopping local also brings benefits to the environment through lower food miles and more seasonal consumption.
 
 %/accordion%
 
@@ -34,13 +34,13 @@ If you see that a shop is closed, just return back when their next order cycle i
 
 %accordion%How are orders delivered?%accordion%
 
-All online shops on the ONF are independently operated and offer different shipping methods. Some shops offer more conventional shipping methods like home delivery, or postage. Others will have more creative ways for getting the food from the farmer to plate, such as collection from a central location \(like a school, farmer’s market or workplace\), collection from a neighbourhood grocer or butcher or distribution through a buying group \(group of customers\).
+All online shops on the Abukem are independently operated and offer different shipping methods. Some shops offer more conventional shipping methods like home delivery, or postage. Others will have more creative ways for getting the food from the farmer to plate, such as collection from a central location \(like a school, farmer’s market or workplace\), collection from a neighbourhood grocer or butcher or distribution through a buying group \(group of customers\).
 
 %/accordion%
 
 %accordion%What are the payment options?%accordion%
 
-All online shops on the OFN are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of credit card, paypal, Pin Payments, banks transfer or cash.
+All online shops on the Abukem are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of credit card, paypal, Pin Payments, banks transfer or cash.
 
 %/accordion%
 
