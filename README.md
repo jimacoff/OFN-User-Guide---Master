@@ -1,20 +1,20 @@
 # Abukemk User Guide
 
 {% hint style="info" %}
-Notice a change? We've updated our user guide and we think you're going to love it! The guide is now fully searchable and will soon be multilingual. Want to access the old guide? You can find it [here](https://agile-crag-59563.herokuapp.com/user-guide/advanced-features/).
+Notice a change? We've updated our user guide and we think you're going to love it! The guide is now fully searchable and will soon be multilingual. Want to access the old guide? You can find it [here](https://agile-crag-59563.herokuapp.com/user-guide).
 {% endhint %}
 
 
 
-This user guide provides information for local food enterprises and organisations who wish to use Open Food Network's tools and functionality.
+This user guide provides information for local food enterprises and organisations who wish to use Abukem E-Market tools and functionality.
 
-This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business, or organisation.
+This short guide will give you a brief introduction to how the Abukem works, and what it can do for your food business, or organisation.
 
-{% embed url="http://www.youtube.com/embed/eA3IcMUnU14" %}
+
 
 ## Find the Setup Manual that's right for you
 
-We have put together [setup manuals](setup-manuals/) which provide specific setup guidance depending on who you are and how you want to use the Open Food Network. Have a look at our setup manuals to find the one that's right for you.
+We have put together [setup manuals](setup-manuals/) which provide specific setup guidance depending on who you are and how you want to use the Abukem E-Market. Have a look at our setup manuals to find the one that's right for you.
 
 ## Search
 
@@ -26,5 +26,5 @@ The content of this guide is separated into [Basic Features](basic-features/), a
 
 ## Feedback
 
-It's really useful for us to know what features you want and need from the software, so please [get in touch](feedback.md) with any feedback. Further, if you have any questions that aren't answered in the guide you can always drop us a line, we're here to help.
+It's really useful for us to know what features you want and need from the system, so please [get in touch](feedback.md) with any feedback. Further, if you have any questions that aren't answered in the guide you can always drop us a line, we're here to help.
 
