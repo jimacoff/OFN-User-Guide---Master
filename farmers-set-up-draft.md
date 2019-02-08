@@ -21,7 +21,7 @@ Farmer’s market stallholders who are willing to cooperate and work together ca
 
 ## Steps for setting up Collective Farmer's Market Shop {#steps-for-setting-up-a-producer-shop}
 
-Setting up this model on OFN is much like setting up a Hub Shop.
+Setting up this model on Abukem E-Market is much like setting up a Hub Shop.
 
 1) Register a profile for your collective shop on Open Food Network (e.g. Belleview Farmer's Market Online Shop). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
 
@@ -53,7 +53,7 @@ Once you've setup your producer profiles, shipping and payment methods, and adde
 
 10) View and edit [orders](/ordres.md).
 
-11) View reports. [This page](/get-reports.md) offers a broad description of OFN's reports.
+11) View reports. [This page](/get-reports.md) offers a broad description of Abukem E-Market reports.
 
 **Which reports are useful to farmer's market shops?
 **Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
