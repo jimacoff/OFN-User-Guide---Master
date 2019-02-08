@@ -4,15 +4,15 @@ There are five different packages available, with each one differing according t
 
 ## For Producers
 
-![The above is an example only, fees vary between OFN instances/countries.](https://openfoodnetwork.org/wp-content/uploads/2015/05/Three-producer-types.png)
+![The above is an example only, fees vary between Abukem instances/countries.](https://openfoodnetwork.org/wp-content/uploads/2015/05/Three-producer-types.png)
 
 {% tabs %}
 {% tab title="1\) Producer Profile" %}
- This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you. A producer with a profile can also add products, which may be stocked in OFN shopfronts that are coordinated by others.
+ This option allows you to create a profile on the Abukem. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you. A producer with a profile can also add products, which may be stocked in Abukem shopfronts that are coordinated by others.
 {% endtab %}
 
 {% tab title="2\) Producer Shop" %}
- This option allows producers to create their own OFN shopfront through which to sell their produce. Note that producers can conduct sales through their own shopfront and/or act as a supplier to another shopfront.
+ This option allows producers to create their own Abukem shopfront through which to sell their produce. Note that producers can conduct sales through their own shopfront and/or act as a supplier to another shopfront.
 {% endtab %}
 
 {% tab title="3\) Producer Hub" %}
@@ -22,11 +22,11 @@ There are five different packages available, with each one differing according t
 
 ## For Non-Producers \(Hubs\)
 
-![The above is an example only, fees vary between OFN instances/countries.](https://openfoodnetwork.org/wp-content/uploads/2015/05/Two-hub-types.png)
+![The above is an example only, fees vary between Abukem instances/countries.](https://openfoodnetwork.org/wp-content/uploads/2015/05/Two-hub-types.png)
 
 {% tabs %}
 {% tab title="1\) Hub \(Profile Only\)" %}
-This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you.
+This option allows you to create a profile on the Abukem. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you.
 {% endtab %}
 
 {% tab title="2\) Hub Shop" %}
@@ -34,7 +34,7 @@ This option provides you with a complete online store for your hub, in addition 
 {% endtab %}
 {% endtabs %}
 
-If you only want a profile on the OFN, once you've created your account, confirmed your email, and selected a profile-only package, your profile will be live on OFN and you're finished. 
+If you only want a profile on the Abukem, once you've created your account, confirmed your email, and selected a profile-only package, your profile will be live on Abukem and you're finished. 
 
 If you want to change or add any details to your profile, continue to [Enterprise Settings](../advanced-features/your-profile/), if not, you're all done.
 
