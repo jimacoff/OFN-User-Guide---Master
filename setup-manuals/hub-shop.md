@@ -46,7 +46,7 @@ Our software is designed to be flexible and to accommodate business models of al
 The following instructions for managing products are broken down according to what you setup in step 7 above, either you a\) created a profile for your supplying producer; or b\) connected with a pre-existing supplying producer profile.
 
 **8a\) I created a profile for my supplying producer**  
-If in the previous step you created a profile for your supplier \(because they were not on the OFN\), you’ll need to also [add their products](../basic-features/products.md) to that profile, before you can stock them in your store.
+If in the previous step you created a profile for your supplier \(because they were not on the Abukem\), you’ll need to also [add their products](../basic-features/products.md) to that profile, before you can stock them in your store.
 
 **8b\) I connected with a pre-existing supplying producer profile.**  
 If your supplying producer already had a profile, you may or may not need to add their product range. If that producer has already added their products, you don’t need to add them again, instead you just need to get their permission to stock their products in your shop \(see previous step 7\). They’ll then be visible to your when you go to stock your shop \(in order cycles\).
