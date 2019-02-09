@@ -2,11 +2,11 @@
 
 This page details what a customer with a subscription can expect. It also highlights some things that shops offering subscriptions should be aware of.
 
-## Signing up to OFN
+## Signing up to Abukem
 
-Customers need to have an account with OFN before you can process subscription orders for them.
+Customers need to have an account with Abukem before you can process subscription orders for them.
 
-To sign up customers can go to [https://openfoodnetwork.org.au/login](https://openfoodnetwork.org.au/login)
+To sign up customers can go to [https://abukem.com/login](https://abukem.com/login)
 
 They'll just need their email address, and to create a password. 
 
@@ -18,7 +18,7 @@ Customer who want to pay for their subscription orders via automated charges ont
 
 ### a\) Saving credit card details in the customer account
 
-The Customer Account page can be accessed at [https://openfoodnetwork.org.au/account\#/cards](https://openfoodnetwork.org.au/account#/cards) . 
+The Customer Account page can be accessed at [https://abukem.com/account\#/cards](https://abukem.com/account#/cards) . 
 
 Your customer can save one or more cards in their account, in the **credit cards** tab.
 
@@ -34,7 +34,7 @@ If your customer saves credit cards in their account, they'll also be able to qu
 
 As well as saving a card in their account the customer needs to authorise your shop to charge their default card.
 
-**You should add your customers to your** [**Customer List**](../shop-setup/customers.md) **before you ask them to save their credit card details and authorise your shop to bill their card.** If you've added a customer to your customer list, when that customer creates an account with OFN and logs in to save their card, they _will_ see your shop and be able to grant it with permission to bill their card \(e.g. below\). 
+**You should add your customers to your** [**Customer List**](../shop-setup/customers.md) **before you ask them to save their credit card details and authorise your shop to bill their card.** If you've added a customer to your customer list, when that customer creates an account with Abukem and logs in to save their card, they _will_ see your shop and be able to grant it with permission to bill their card \(e.g. below\). 
 
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
