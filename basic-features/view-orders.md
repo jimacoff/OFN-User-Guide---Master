@@ -1,6 +1,6 @@
 # View Orders
 
-You can interact with orders via two pages within the OFN, the Lisitng Orders page, and the Bulk Order Managment page. The features of these two pages are discussed below.
+You can interact with orders via two pages within the Abukem the Lisitng Orders page, and the Bulk Order Managment page. The features of these two pages are discussed below.
 
 ## Listing orders
 
@@ -118,7 +118,7 @@ From here you can remove fees that are already on an order, or add/subtract from
 
 ### A **Customer’s view of their order**
 
-Your customers can view a list of their orders when they login to the OFN, and click on their account \(see below\).
+Your customers can view a list of their orders when they login to the Abukem, and click on their account \(see below\).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
 
