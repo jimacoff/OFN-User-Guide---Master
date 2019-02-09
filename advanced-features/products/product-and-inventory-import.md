@@ -27,7 +27,7 @@ In the first version of this tool there are a few fields that aren't captured. U
 * Group buy settings
 
 {% hint style="info" %}
-If you need this functionality, please let [your local OFN](https://openfoodnetwork.org/ofn-local/) know. We welcome your feedback.
+If you need this functionality, please let [your local Abukem](https://abukem.com/ofn-local/) know. We welcome your feedback.
 {% endhint %}
 
 ## 1\) Import New Products
@@ -99,7 +99,7 @@ Below are some examples to show how products with different units \(g, ml, kg an
 
 ### Import the CSV
 
-Once you have filled out the **Product List Template CSV** you are ready to upload it into OFN.
+Once you have filled out the **Product List Template CSV** you are ready to upload it into Abukem.
 
 Go to **Products** &gt;  **Product Import.**
 
