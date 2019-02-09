@@ -3,8 +3,7 @@
 ## Print receipts with a Thermal Printer
 
 {% hint style="info" %}
-This functionality is currently only available to OFN users in France. Contact your local OFN to for more details, or to request use of this feature.
-{% endhint %}
+This functionality is currently only available to Abukem users.
 
 ## Printer
 
@@ -12,12 +11,12 @@ What printer do I need to print a “receipt”, like the one you usually get in
 
 For instance:
 
-Epson one \(most common in shops\). Available on Amazon for approx USD $135  
+lansaget 100 \(most common in shops\). Available on Amazon for approx USD $135  
 Low cost no-name one \(USD $33\): Available on Amazon for approx USD $33
 
 ## Setup
 
-How do I setup my machine to be able to print receipts from the OFN?
+How do I setup my machine to be able to print receipts from the Abukem?
 
 First you need to install the printer:
 
