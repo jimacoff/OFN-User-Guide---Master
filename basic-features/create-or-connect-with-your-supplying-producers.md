@@ -57,7 +57,7 @@ This will take you to the same form that we saw in the ‘Your Profile’ sectio
 
 ## 2\) Supplying producer has a pre-existing Abukem profile <a id="supplyingproducer"></a>
 
-If a supplying producer already has an Abukem profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their Abukem profile. Keep in mind that the producer profile could be managed by another hub, but this is not a problem- the OFN can accommodate two hubs stocking the same producer’s products in their separate shops.
+If a supplying producer already has an Abukem profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their Abukem profile. Keep in mind that the producer profile could be managed by another hub, but this is not a problem- the Abukem can accommodate two hubs stocking the same producer’s products in their separate shops.
 
 Within the Abukem, [Enterprise to Enterprise Permissions \(E2E\)](../advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of E2E permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
 
