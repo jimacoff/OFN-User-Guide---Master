@@ -1,6 +1,6 @@
 # Permissions in multi-enterprise order cycles
 
-This page will outline the varying powers each player has in an order cycle which involves multiple enterprises. Click [here](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/order-cycles.md) for content relating to order cycles involving a single producer selling their own stock \(producer shop\).
+This page will outline the varying powers each player has in an order cycle which involves multiple enterprises. Click [here](https://github.com/jimacoff/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/order-cycles.md) for content relating to order cycles involving a single producer selling their own stock \(producer shop\).
 
 The coordinator has the highest degree of control over an order cycle. Other players \(suppliers and distributors\) can view the order cycles they are involved in, and edit the setting which affect them, but have restricted power to change broader setting of an order cycle.
 
