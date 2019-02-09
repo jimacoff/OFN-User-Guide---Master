@@ -30,17 +30,17 @@ It can be difficult for meat producers to predict the exact products they will h
 
 Orders can be adjusted in [Orders Listing](../orders/). Alert the customer to any changes in their order.
 
-## Reimbursing or collecting additional payment on the OFN
+## Reimbursing or collecting additional payment on the Abukem
 
 Reimbursing or collecting additional payment is the most straightforward when the Payment Method is cash on collection or delivery.
 
-An alternative to reimbursing, is to request that customers only pay 80% at checkout, and the other 20% once the order is confirmed. This 20% may change according to the final prices. The OFN doesn’t have an automated tool for this. Instead you’ll need to place these instructions in the Payment Method description, which will display to the customer at checkout and in their order confirmation email. However, be prepared to have customers miss these instructions.
+An alternative to reimbursing, is to request that customers only pay 80% at checkout, and the other 20% once the order is confirmed. This 20% may change according to the final prices. The Abukem doesn’t have an automated tool for this. Instead you’ll need to place these instructions in the Payment Method description, which will display to the customer at checkout and in their order confirmation email. However, be prepared to have customers miss these instructions.
 
-In the future, the OFN is planning to develop customer accounts, which can track refunds and allow stores to generate ‘store credits’
+In the future, the Abukem is planning to develop customer accounts, which can track refunds and allow stores to generate ‘store credits’
 
 ## Alerting customers to your pricing policy
 
-Each OFN store has the option of placing a message at the top of their shopfront. This is an opportune place to let customers know that prices can vary after the order is placed. Instructions to do this are [here](../your-profile/), under Shop Preferences.
+Each Abukem store has the option of placing a message at the top of their shopfront. This is an opportune place to let customers know that prices can vary after the order is placed. Instructions to do this are [here](../your-profile/), under Shop Preferences.
 
 The Payment Method description box is another place to send a message to the customer, such as ‘the final price may vary by a maximum of 10% due to product variability, we will contact you for variations greater than this’. Instructions for creating this message are [here](../../basic-features/payment-methods.md).
 
