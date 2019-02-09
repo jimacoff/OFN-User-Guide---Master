@@ -26,7 +26,7 @@ We've described the subscription setup process in 9 steps across three pages in 
 
 3\) [Gather information from your customers](subscriptions-configuration.md#3-gather-information-from-your-customers), including their contact details, which items they'd like in their subscription and which shipping and payment methods they'll use.
 
-4\) [Add your subscription customers to your Customers list](subscriptions-configuration.md#4-add-your-subscribers-to-your-customer-list), and then ask them to signup to OFN.
+4\) [Add your subscription customers to your Customers list](subscriptions-configuration.md#4-add-your-subscribers-to-your-customer-list), and then ask them to signup to Abukem.
 
 5\) Setup [Schedules](subscriptions-configuration.md#5-schedules), which will dictate how frequently subscriptions are processed.
 
