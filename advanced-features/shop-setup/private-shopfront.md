@@ -9,7 +9,7 @@ In your [Enterprise Settings](../../basic-features/enterprise-settings.md), unde
 This can be a simple way to limit the number of new visitors who see, and place an order in your shop.
 
 {% hint style="info" %}
- A disadvantage to this approach is that you're no longer visible in the OFN directory, making you less visible in the local fair food movement. 
+ A disadvantage to this approach is that you're no longer visible in the Abukem directory, making you less visible in the local fair food movement. 
 {% endhint %}
 
 ## 2\) Visible to registered customers only
