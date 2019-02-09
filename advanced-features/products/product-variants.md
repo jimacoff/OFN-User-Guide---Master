@@ -2,7 +2,7 @@
 
 If you are listing two or more products which are very similar, but only vary on price, or size, or something like flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. This will make the listing clearer to customers and prevent your store from becoming cluttered.
 
-Using an example of Corn Cobs, let’s imagine that you want to sell individual corn cobs for 80c each, or 5 corn cobs for the discounted price of $3. Each of these products will be a product variant. Below, is the final product listing on the OFN store. The following section will describe the steps involved in creating this listing.
+Using an example of Corn Cobs, let’s imagine that you want to sell individual corn cobs for 80c each, or 5 corn cobs for the discounted price of $3. Each of these products will be a product variant. Below, is the final product listing on the Abukem store. The following section will describe the steps involved in creating this listing.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/CornCob-Variants.png)
 
