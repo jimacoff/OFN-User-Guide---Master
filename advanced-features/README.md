@@ -46,7 +46,7 @@ The [Basic Features](../basic-features/) chapter steps through the fundamental f
 
 ### Groups
 
-* Create and manage a group page, which acts as a sub directory within the OFN for regional producer groups, certification bodies, markets etc. [Read more](groups/group-page.md)
+* Create and manage a group page, which acts as a sub directory within the Abukem for regional producer groups, certification bodies, markets etc. [Read more](groups/group-page.md)
 * Embed your Group Page in your own, external website. [Read more](groups/embed-a-group-page.md)
 
 ### Social
