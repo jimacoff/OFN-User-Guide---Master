@@ -16,7 +16,7 @@ Using the tagging feature involves two main steps:
 
 ### Tagging Customers
 
-Your [Customers ](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/customer-accounts-and-tagging.md)page lists all customers who have placed an order in your shop, as well as any customers you have manually added to your customer list.
+Your [Customers ](https://github.com/jimacoff/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/customer-accounts-and-tagging.md)page lists all customers who have placed an order in your shop, as well as any customers you have manually added to your customer list.
 
 The first step to setting up a tag rule is to tag all of the customers who you want the rule to apply to.
 
