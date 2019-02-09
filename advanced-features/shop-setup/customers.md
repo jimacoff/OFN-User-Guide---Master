@@ -4,7 +4,7 @@ In the blue horizontal menu you'll find the **Customers** tab.
 
 The customers tab contains a list of all of your shop's customers. Here you can maintain information about your customers such as their shipping/billing address, tags, codes and their name.
 
-There are some other OFN tools that rely on the Customer list, including:
+There are some other Abukem tools that rely on the Customer list, including:
 
 * [Private shopfronts](private-shopfront.md) that are visible to approved customers only
 * [Tag rules](tags-and-tag-rules.md) which are used to control the visibility of certain things to certain customers \(incl. products, order cycles, shipping methods and payment methods\).
