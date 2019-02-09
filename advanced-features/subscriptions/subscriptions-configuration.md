@@ -3,7 +3,7 @@
 ## 1\) Enable subscriptions
 
 {% hint style="info" %}
-While subscriptions is in Beta mode, you'll need to contact [your local OFN](https://openfoodnetwork.org/ofn-local/) representative to have subscriptions activated for your shop.
+While subscriptions is in Beta mode, you'll need to contact [your local Abukem](https://abukem.com/ofn-local/) representative to have subscriptions activated for your shop.
 {% endhint %}
 
 To enable the Subscription tool, you’ll need to activate the feature in your enterprise’s settings. Once turned on, the additional subscription tabs and controls will become visible to you. These settings can be found in Manage your enterprise, in the [**Shop Preferences**](../../basic-features/enterprise-settings.md#shop-preferences) ****tab.
@@ -33,11 +33,11 @@ You can only assign two types of payment methods to subscriptions. See here for 
 
 **2\) Stripe:** Stripe is a payment gateway which takes payment with credit cards. When you apply a Stripe payment method to a customer's subscription, Stripe will bill their credit card automatically each time one of their subscription orders is processed. The amount they are charged will reflect any changes they've made to the subscription order, and they will not be changed if you cancel or pause their subscription.
 
-Before a shop can successfully charge the customer, the customer must signup with OFN, save a default credit card in their account _and_ grant permission to your shop to charge the credit card. Further detail about these steps are on the [subscriptions - the customer perspective](subscriptions-the-customers-perspective.md) page.
+Before a shop can successfully charge the customer, the customer must signup with Abukem, save a default credit card in their account _and_ grant permission to your shop to charge the credit card. Further detail about these steps are on the [subscriptions - the customer perspective](subscriptions-the-customers-perspective.md) page.
 
 Note, when you setup Stripe to be used in subscriptions it's a good to make the payment method name and description clear. 
 
-For example, rather than calling the payment method 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers \(see example below\), so it's good to make it details so the customer knows what to expect.
+For example, rather than calling the payment method 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your Abukem account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers \(see example below\), so it's good to make it details so the customer knows what to expect.
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
 
@@ -53,7 +53,7 @@ To setup a subscription for a customer you'll need to get some information from 
 
 **Shipping method**: You need to assign their subscription order to a shipping method.
 
-**Payment method**: Customers can select from your manual payment methods \(e.g. cash, bank transfer\), or paying with their credit card through your shop's stripe account. In the case that you are offering automated direct debiting to credit cards using stripe, you will need your customers to add their credit card information into their OFN account \(see below\).
+**Payment method**: Customers can select from your manual payment methods \(e.g. cash, bank transfer\), or paying with their credit card through your shop's stripe account. In the case that you are offering automated direct debiting to credit cards using stripe, you will need your customers to add their credit card information into their Abukem  account \(see below\).
 
 **Dates** they want their subscription to span: Remember, for a subscription order to be created for a given order cycle it must have a start date either before or after the order cycle opening date, and the subscription end date must be after the OC close date.
 
@@ -61,18 +61,18 @@ To setup a subscription for a customer you'll need to get some information from 
 
 Before you can setup a subscription order for a customer they need to be added to your Customers list. See here for instructions for maintaining your [Customers list](../shop-setup/customers.md).
 
-**After you've added your customers to your customer list email them** and ask them to sign up for an account on OFN. Instructions for doing this can be found [here](subscriptions-the-customers-perspective.md#signing-up-to-ofn). If you plan to bill customers using Stripe, you need to also request that they [save their credit card details and authorise your shop to charge their card](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authourising-charges).
+**After you've added your customers to your customer list email them** and ask them to sign up for an account on Abukem. Instructions for doing this can be found [here](subscriptions-the-customers-perspective.md#signing-up-to-ofn). If you plan to bill customers using Stripe, you need to also request that they [save their credit card details and authorise your shop to charge their card](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authourising-charges).
 
-You can add customers to your Customer list before or after they've signed up for an account with OFN. However, note that before a subscription order can be successfully setup the customer must signup with OFN and confirm their email.
+You can add customers to your Customer list before or after they've signed up for an account with Abukem. However, note that before a subscription order can be successfully setup the customer must signup with OFN and confirm their email.
 
 Also, if you want to use Stripe to take credit card payment from subscribers, you must add them to your customer list before they can grant your shop permission to bill their credit card.
 
-Thus we suggest the following process: a\) contact your customers to get their required information b\) add them to your customer list c\) email them and ask them to signup to OFN \(and grant you permission to bill their card, if your shop will use Stripe\) and then d\) [you create their subscription](subscriptions-creating-and-managing-orders.md#6-create-subscriptions).
+Thus we suggest the following process: a\) contact your customers to get their required information b\) add them to your customer list c\) email them and ask them to signup to Abukem \(and grant you permission to bill their card, if your shop will use Stripe\) and then d\) [you create their subscription](subscriptions-creating-and-managing-orders.md#6-create-subscriptions).
 
 ## 5\) Schedules
 
 {% hint style="info" %}
-If you are new to OFN we encourage you to get familiar with setting up [order cycles](../order-cycles/) before setting up schedules.
+If you are new to Abukem we encourage you to get familiar with setting up [order cycles](../order-cycles/) before setting up schedules.
 {% endhint %}
 
 ### About Schedules
