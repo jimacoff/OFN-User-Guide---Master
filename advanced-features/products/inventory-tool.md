@@ -10,7 +10,7 @@ The inventory pages are used for three primary functions:
 2. **Hiding products and assessing new products.** In the inventory list enterprises can hide products that they may not want to see, making the task of filtering which products go into the shopfront quicker when dealing with large amounts of products. There is also the option to have new products added by producers hidden by default, until they have been approved by you.
 3. **Resting stock ‘on hand’ levels.** Enterprises who have stock that is regularly  restocked to a certain quantity can define this recurring on hand stock level for each product, and reset levels quickly en mass.
 
-> Note: Use of the inventory tool can be complex, so we encourage you to [contact your local OFN](https://openfoodnetwork.org/contact/) to get configuration advice for your specific setup.
+> Note: Use of the inventory tool can be complex, so we encourage you to [contact your local Abukem](https://abukem.com/contact/) to get configuration advice for your specific setup.
 
 ### Permissions Requirements
 
