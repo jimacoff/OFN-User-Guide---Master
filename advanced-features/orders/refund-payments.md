@@ -4,7 +4,7 @@
 
 Depending on whether you need to do a full refund or a part refund you may need to do the refund from Stripe.
 
-**You can refund an entire Stripe payment from within OFN.** 
+**You can refund an entire Stripe payment from within Abukem.** 
 
 Edit the order and click on payments in the menu on the right.
 
