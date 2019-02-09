@@ -67,7 +67,7 @@ This report can also be used to calculate the total value of goods ordered from 
 
 ### Updating products each cycle
 
-Before each order cycle, the product availability and prices for each producer need to be updated. If the coordinator owns the producer profiles, they’ll need to contact each producer, get a list of any changes to product prices and availability, and update this in the OFN. If the coordinator has taken the ‘low involvement’ route, producers will need to take responsibility for updating their product information themselves.
+Before each order cycle, the product availability and prices for each producer need to be updated. If the coordinator owns the producer profiles, they’ll need to contact each producer, get a list of any changes to product prices and availability, and update this in the Abykem. If the coordinator has taken the ‘low involvement’ route, producers will need to take responsibility for updating their product information themselves.
 
 Below are instructions for how producers can update products before an order cycle:
 
