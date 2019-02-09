@@ -1,10 +1,10 @@
 # Advanced Features
 
-The [Basic Features](../basic-features/) chapter steps through the fundamental features required to setup a profile or shop on OFN. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
+The [Basic Features](../basic-features/) chapter steps through the fundamental features required to setup a profile or shop on Abukem. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
 
 ### Your Profile
 
-* Make producer profiles searchable by product category in the OFN directories. [Read more](your-profile/making-a-producer-profile-searchable-by-product-category.md)
+* Make producer profiles searchable by product category in the Abukem directories. [Read more](your-profile/making-a-producer-profile-searchable-by-product-category.md)
 * Transferring ownership of a profile from one user to another. [Read more](your-profile/transfer-ownership.md)
 
 ### Products
